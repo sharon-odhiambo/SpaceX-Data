@@ -20,12 +20,17 @@
 To Run the project
 
 ```
-1. git clone https://github.com/IamYunusAli/bookstore.git
-2. cd bookstore
+1. git clone https://github.com/IamYunusAli/Space-Traveler.git
+2. cd Space-Traveler
 3. npm i
 4. npm run start
 5. use http://localhost:3000/ on your browser
 ```
+To Run test
+ ``` 
+ npm test 
+ 
+ ``` 
 
 enjoy
 
@@ -38,6 +43,14 @@ enjoy
 - LinkedIn: [Yunus Ali](https://linkedin.com/in/iamyunusali)
 
 👤 **Author **
+
+👤 **Sharon Odhiambo**
+
+- GitHub: [@sharon-odhiambo](https://github.com/sharon-odhiambo)
+- Twitter: [@SharonVictor16](https://twitter.com/sharonvictor16)
+- LinkedIn: [Sharon Odhiambo](https://www.linkedin.com/in/sharon-odhiambo-4333a0163/)
+
+👤 **Pierre Celestin M **
 
 - GitHub: (https://github.com/Piercel2022)
 - Twitter: (https://twitter.com/pier_celestin)
