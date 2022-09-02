@@ -42,6 +42,8 @@ enjoy
 - Twitter: [@IamYunusAli](https://twitter.com/iamyunusali)
 - LinkedIn: [Yunus Ali](https://linkedin.com/in/iamyunusali)
 
+👤 **Author **
+
 👤 **Sharon Odhiambo**
 
 - GitHub: [@sharon-odhiambo](https://github.com/sharon-odhiambo)
